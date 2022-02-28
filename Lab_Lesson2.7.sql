@@ -1,27 +1,6 @@
 
 -- ## -------- Lab_Lesson2.7 -------- ## --
 
--- Some guidelines for joins:
-/*
-1. Get a rank of districts ordered by the number of clients.
-
-1.1 - Tables needed:
-client
-district
-
-1.2 - Do they have a common column?
-district_id = A1
-
-1.3  Which kind of join?
-inner join
-
-1.4 - What is the LEFT table and what is the RIGHT table?
-As we use an inner join the order of the tables doesn't matter.
-But we're going to use 
-LEFT -> district
-RIGHT -> client
-*/
-
 /*
 SQL JOINS:
 
